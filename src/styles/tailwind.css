@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(180deg, #020617, #020617);
+  color: #e5e7eb;
+}
+
+.panel {
+  background: linear-gradient(180deg, #020617, #020617);
+  border: 1px solid #1e293b;
+}
