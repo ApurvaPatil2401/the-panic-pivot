@@ -20,6 +20,7 @@ By combining:
 The Panic Pivot highlights behavioral shifts during market stress.
 
 ---
+![Panic Pivot Dashboard](Output_pivot_dashboard.jpg)
 
 ## Dashboard Features
 
